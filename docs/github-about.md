@@ -2,7 +2,7 @@
 
 Description:
 
-Liteweight Android voice recorder with pause/resume, in-app playback, and recordings saved to `Music/LiteACR`.
+Lightweight Android voice recorder with pause/resume, in-app playback, and recordings saved to `Music/LiteACR`.
 
 Suggested topics:
 
