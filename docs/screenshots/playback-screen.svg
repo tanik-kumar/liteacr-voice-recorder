@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="360" height="780" viewBox="0 0 360 780" role="img" aria-label="LiteACR playback screen preview">
+  <rect width="360" height="780" rx="36" fill="#0f172a"/>
+  <rect x="18" y="18" width="324" height="744" rx="28" fill="#f8fafc"/>
+  <text x="38" y="64" font-family="Arial, sans-serif" font-size="24" font-weight="700" fill="#111827">Recordings</text>
+  <rect x="30" y="92" width="300" height="138" rx="22" fill="#dbeafe"/>
+  <text x="48" y="128" font-family="Arial, sans-serif" font-size="20" font-weight="700" fill="#111827">Save location</text>
+  <text x="48" y="158" font-family="Arial, sans-serif" font-size="14" fill="#475569">Folder: Music/LiteACR</text>
+  <text x="48" y="188" font-family="Arial, sans-serif" font-size="14" fill="#1d4ed8">Playing: Music/LiteACR/recording_20260322_2101.m4a</text>
+  <text x="48" y="214" font-family="Arial, sans-serif" font-size="15" font-weight="700" fill="#2563eb">Refresh recordings</text>
+  <rect x="30" y="270" width="300" height="188" rx="20" fill="#ffffff" stroke="#93c5fd" stroke-width="3"/>
+  <text x="48" y="308" font-family="Arial, sans-serif" font-size="18" font-weight="700" fill="#111827">recording 20260322 2101</text>
+  <text x="48" y="334" font-family="Arial, sans-serif" font-size="13" fill="#475569">Mar 22, 2026 • 01:12 • 1.1 MB</text>
+  <text x="48" y="358" font-family="Arial, sans-serif" font-size="12" fill="#64748b">Music/LiteACR/recording_20260322_2101.m4a</text>
+  <rect x="48" y="390" width="232" height="8" rx="4" fill="#cbd5e1"/>
+  <rect x="48" y="390" width="148" height="8" rx="4" fill="#2563eb"/>
+  <circle cx="196" cy="394" r="9" fill="#2563eb"/>
+  <text x="48" y="434" font-family="Arial, sans-serif" font-size="14" font-weight="700" fill="#2563eb">Stop</text>
+  <text x="110" y="434" font-family="Arial, sans-serif" font-size="14" font-weight="700" fill="#2563eb">Share</text>
+  <text x="182" y="434" font-family="Arial, sans-serif" font-size="14" font-weight="700" fill="#2563eb">Delete</text>
+</svg>
