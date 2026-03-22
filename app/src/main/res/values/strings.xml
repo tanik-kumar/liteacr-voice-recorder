@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">LiteACR</string>
+    <string name="title_overview">Simple audio recorder</string>
+    <string name="manual_recording_hint">This app is now a manual recorder only. Tap record, keep the foreground notification active while recording, and use the recordings screen to play files inside the app.</string>
+    <string name="grant_permissions">Grant permissions</string>
+    <string name="start_recording">Start recording</string>
+    <string name="stop_recording">Stop recording</string>
+    <string name="pause">Pause</string>
+    <string name="resume">Resume</string>
+    <string name="refresh_recordings">Refresh recordings</string>
+    <string name="recordings">Recordings</string>
+    <string name="recordings_count">%1$d recording(s) saved</string>
+    <string name="open_recordings_screen">Open recordings list</string>
+    <string name="save_location">Save location</string>
+    <string name="recordings_folder_value">Folder: %1$s</string>
+    <string name="no_recordings">No recordings yet.</string>
+    <string name="play">Play</string>
+    <string name="stop_playback">Stop</string>
+    <string name="share">Share</string>
+    <string name="delete">Delete</string>
+    <string name="notification_title">LiteACR</string>
+    <string name="notification_channel_name">Recorder service</string>
+    <string name="notification_channel_description">Keeps recording controls available while the service is active.</string>
+    <string name="notification_stop">Stop</string>
+    <string name="notification_pause">Pause</string>
+    <string name="notification_resume">Resume</string>
+    <string name="permission_ok">Permissions ready for recording.</string>
+    <string name="permission_missing_audio">Missing microphone permission.</string>
+    <string name="permission_missing_notifications">Missing notification permission. Foreground notification may be hidden.</string>
+    <string name="share_recording_title">Share recording</string>
+    <string name="delete_failed">Unable to delete recording.</string>
+    <string name="share_failed">No app available to share this recording.</string>
+    <string name="play_failed">Unable to play this recording.</string>
+    <string name="playback_idle">Playback idle.</string>
+    <string name="playing_file_value">Playing: %1$s</string>
+</resources>
